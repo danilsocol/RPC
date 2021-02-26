@@ -1,0 +1,16 @@
+E:\Проекты\опз\опз\опз\bin\Debug\netcoreapp3.1\RPC.exe
+E:\Проекты\опз\опз\опз\bin\Debug\netcoreapp3.1\RPC.deps.json
+E:\Проекты\опз\опз\опз\bin\Debug\netcoreapp3.1\RPC.runtimeconfig.json
+E:\Проекты\опз\опз\опз\bin\Debug\netcoreapp3.1\RPC.runtimeconfig.dev.json
+E:\Проекты\опз\опз\опз\bin\Debug\netcoreapp3.1\RPC.dll
+E:\Проекты\опз\опз\опз\bin\Debug\netcoreapp3.1\RPC.pdb
+E:\Проекты\опз\опз\опз\bin\Debug\netcoreapp3.1\RPC.Logic.dll
+E:\Проекты\опз\опз\опз\bin\Debug\netcoreapp3.1\RPC.Logic.pdb
+E:\Проекты\опз\опз\опз\obj\Debug\netcoreapp3.1\RPC.csprojAssemblyReference.cache
+E:\Проекты\опз\опз\опз\obj\Debug\netcoreapp3.1\RPC.AssemblyInfoInputs.cache
+E:\Проекты\опз\опз\опз\obj\Debug\netcoreapp3.1\RPC.AssemblyInfo.cs
+E:\Проекты\опз\опз\опз\obj\Debug\netcoreapp3.1\RPC.csproj.CoreCompileInputs.cache
+E:\Проекты\опз\опз\опз\obj\Debug\netcoreapp3.1\RPC.csproj.CopyComplete
+E:\Проекты\опз\опз\опз\obj\Debug\netcoreapp3.1\RPC.dll
+E:\Проекты\опз\опз\опз\obj\Debug\netcoreapp3.1\RPC.pdb
+E:\Проекты\опз\опз\опз\obj\Debug\netcoreapp3.1\RPC.genruntimeconfig.cache

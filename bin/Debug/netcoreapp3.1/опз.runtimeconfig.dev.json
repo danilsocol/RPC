@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Seraphic\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Seraphic\\.nuget\\packages"
+    ]
+  }
+}
