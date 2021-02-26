@@ -1,0 +1,16 @@
+E:\Проекты\опз\опз\опз\bin\Debug\netcoreapp3.1\опз.exe
+E:\Проекты\опз\опз\опз\bin\Debug\netcoreapp3.1\опз.deps.json
+E:\Проекты\опз\опз\опз\bin\Debug\netcoreapp3.1\опз.runtimeconfig.json
+E:\Проекты\опз\опз\опз\bin\Debug\netcoreapp3.1\опз.runtimeconfig.dev.json
+E:\Проекты\опз\опз\опз\bin\Debug\netcoreapp3.1\опз.dll
+E:\Проекты\опз\опз\опз\bin\Debug\netcoreapp3.1\опз.pdb
+E:\Проекты\опз\опз\опз\bin\Debug\netcoreapp3.1\опз.Console.dll
+E:\Проекты\опз\опз\опз\bin\Debug\netcoreapp3.1\опз.Console.pdb
+E:\Проекты\опз\опз\опз\obj\Debug\netcoreapp3.1\опз.csprojAssemblyReference.cache
+E:\Проекты\опз\опз\опз\obj\Debug\netcoreapp3.1\опз.AssemblyInfoInputs.cache
+E:\Проекты\опз\опз\опз\obj\Debug\netcoreapp3.1\опз.AssemblyInfo.cs
+E:\Проекты\опз\опз\опз\obj\Debug\netcoreapp3.1\опз.csproj.CoreCompileInputs.cache
+E:\Проекты\опз\опз\опз\obj\Debug\netcoreapp3.1\опз.csproj.CopyComplete
+E:\Проекты\опз\опз\опз\obj\Debug\netcoreapp3.1\опз.dll
+E:\Проекты\опз\опз\опз\obj\Debug\netcoreapp3.1\опз.pdb
+E:\Проекты\опз\опз\опз\obj\Debug\netcoreapp3.1\опз.genruntimeconfig.cache

@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "RPC": {
+      "commandName": "Project",
+      "workingDirectory": "E:\\File"
+    }
+  }
+}

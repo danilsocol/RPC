@@ -1,11 +1,11 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace ОПЗ
+namespace RPC
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Main(string[] args) 
         {
             string[] text = FileWork.ReadFile();
 
@@ -15,7 +15,7 @@ namespace ОПЗ
 
             for (int i = minRange; i <= maxRange; i++)
             {
-                OPZ.splitExample(example, i);
+                RPN.splitExample(example, i);
             }
         }
     }
